@@ -115,3 +115,15 @@
 9. git branch показывает ветки mybranch, branch1, Mergesort-Impl, main
 10. Мёрж Mergesort-Impl в main
 11. Push
+
+## Скриншоты работы
+![alt text](image_2026-11-20_12-36-14.png)
+![alt text](image_2026-11-20_12-39-18.png)
+![alt text](image_2026-11-20_12-43-49.png)
+![alt text](image_2026-11-20_12-48-43.png)
+![alt text](image_2026-11-23_16-56-16.png)
+![alt text](image_2026-11-23_16-59-24.png)
+![alt text](image_2026-11-23_17-02-40.png)
+![alt text](image_2026-11-23_17-15-18.png)
+![alt text](image_2026-11-23_17-21-25.png)
+![alt text](image_2026-11-23_17-32-05.png)
